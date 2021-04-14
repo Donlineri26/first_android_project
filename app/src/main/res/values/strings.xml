@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="main_fragment_label">Main Fragment</string>
+    <string name="edit_fragment_label">Edit Fragment</string>
+    <string name="delete">delete</string>
+    <string name="accept_color">accept color</string>
+    <string name="settings">settings</string>
+    <string name="help">help</string>
+    <string name="hint_nameRecord">Name record</string>
+    <string name="hint_dataRecord">Start write…</string>
+    <string name="title_settings">Settings</string>
+    <string name="option_setPassword">Set password</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirmPassword">Confirm password</string>
+    <string name="accept_password">Accept</string>
+</resources>

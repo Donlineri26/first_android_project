@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="main_fragment_label">Main Fragment</string>
+    <string name="edit_fragment_label">Edit Fragment</string>
+    <string name="delete">Удалить</string>
+    <string name="accept_color">Применить цвет</string>
+    <string name="settings">Настройки</string>
+    <string name="help">Помощь</string>
+    <string name="hint_nameRecord">Название заметки</string>
+    <string name="hint_dataRecord">Начините писать…</string>
+    <string name="title_settings">Настройки</string>
+    <string name="option_setPassword">Установить пароль</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_confirmPassword">Подтверждение пароля</string>
+    <string name="accept_password">Применить</string>
+</resources>
